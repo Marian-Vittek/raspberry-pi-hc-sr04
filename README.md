@@ -1,2 +1,5 @@
 # raspberry-pi-hc-sr04
-Simple distance measurement with HC-SR04 sonar
+
+This is a very simple implementation of measuring distance with
+HC-SR04 sonar and Raspberry Pi using pigpio library.
+
