@@ -5,9 +5,10 @@ sonar and Raspberry Pi using pigpio library.
 
 To compile and run, type:
 
+```
    make sonar-hcsr04
    sudo ./sonar-hcsr04 <sending_gpio_pin> <receiving_gpio_pin>
-
+```
 
 
 
